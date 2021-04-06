@@ -1,0 +1,5 @@
+Bottom green to go right + Left green to go stright. (right and straight) 
+density check...
+	1) individual and then right and straight
+	2) opposite..mid eval
+	3) combination of right and straight.
